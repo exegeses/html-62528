@@ -5,8 +5,8 @@
 <img src="https://img.shields.io/badge/HTML-F38454?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/CSS-1490fc?&style=for-the-badge&logo=css3&logoColor=white">
 
 > Curso: Desarrollo Web con HTML |  
-> Martes y Jueves 19hs a 22hs (Arg) | 
-> 6 clases (hasta  07/02/2023) 
+> Martes y Jueves 10hs a 13hs (Arg) | 
+> 6 clases ( hasta  07/02/2023 ) 
 > Código: 62528 |  
 > sensei: Marcos Pinardi |  
 
