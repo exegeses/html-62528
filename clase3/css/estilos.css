@@ -1,0 +1,28 @@
+body{
+    width: 960px;
+    margin: auto; /* centrar una caja */
+}
+
+a{
+    text-decoration: none; /* quitar subrayado */
+    color: #3c3c3c;
+}
+
+header{
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+    header a img{
+        vertical-align: middle;
+    }
+
+main{
+    height: 500px;
+}
+footer{
+    height: 150px;
+    background-color: #132D1A;
+}
