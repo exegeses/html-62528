@@ -1,0 +1,19 @@
+#verde{
+    width: 200px;
+    height: 120px;
+    background-color: rgb(190, 241, 167);
+    margin-bottom: 25px;
+    margin-left: 50px;
+}
+#naranja{
+    width: 200px;
+    height: 120px;
+    background-color: rgb(241, 197, 167);
+    /* margin: 40px; */
+    margin: auto; /* centrar la caja */
+}
+#celeste{
+    width: 200px;
+    height: 120px;
+    background-color: rgb(167, 240, 241);
+}
