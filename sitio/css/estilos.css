@@ -87,3 +87,28 @@ main{
         margin-top: 12px;
         margin-bottom: 12px;
     }
+
+/* servicios */
+#servicios{
+    width: 765px;
+    margin: 52px auto 0px auto;
+    display: flex;
+    flex-wrap: wrap; /* respeta los anchos */
+}
+
+    #servicios h2{
+        width: 100%;
+        text-align: center;
+    }
+    #servicios a{
+        border: 1px solid #3C3C3C;
+        border-radius: 12px;
+        color: #3C3C3C;
+        width: 160px;
+        height: 140px;
+        display: block;
+        margin: 47px;
+    }
+    .material-symbols-outlined{
+        font-size: 56px;
+    }
