@@ -67,3 +67,23 @@ main{
         font-size: 32px;
         margin-left: 100px;
     }
+
+/* promos */
+#promos{
+    height: 382px;
+    margin-top: 52px;
+    background-color: #FAF0E9;
+
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center; /* centrar en vertical */
+}
+
+    #promos article{
+        width: 256px;
+    }
+    #promos h2{
+        font-size: 16px;
+        margin-top: 12px;
+        margin-bottom: 12px;
+    }
