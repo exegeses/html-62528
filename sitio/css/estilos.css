@@ -115,6 +115,71 @@ main{
         margin: 22px 52px;
     }
 
+
+/* formulario de contacto */
+#contacto{
+    height: 450px;
+    margin-top: 52px;
+    background-color: #EC7D54;
+    color: #fff;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+    #contacto form{
+        width: 550px;
+    }
+
+        #contacto form input,
+        #contacto form textarea
+        {
+            width: 100%;
+            margin-bottom: 16px;
+            padding: 8px;
+            background-color: #F8A281;
+            border: none;
+            font-family: 'Raleway', sans-serif;
+            font-size: 18px;
+            color: #fff;
+        }
+        #contacto form input::placeholder,
+        #contacto form textarea::placeholder
+        {
+            color: #fff;
+        }
+        #contacto form textarea{
+            height: 152px;
+            resize: none;
+        }
+
+        #contacto form button{
+            width: 212px;
+            padding: 8px;
+            border: 1px solid #CD5F35;
+            border-radius: 8px;
+            font-family: 'Raleway', sans-serif;
+            color: #3C3C3C;
+        }
+        #contacto form button:hover{
+            background-color: #fee197;
+            cursor: pointer;
+        }
+
+
+/* mapa de google */
+#mapa{
+    margin-top: 52px;
+}
+
+#mapa iframe{
+    width: 960px;
+    height: 450px;
+    border: none;
+}
+
+
 /* Footer */
 
 footer{
