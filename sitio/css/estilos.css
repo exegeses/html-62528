@@ -108,7 +108,34 @@ main{
         height: 140px;
         display: block;
         margin: 47px;
+        text-align: center;
     }
     .material-symbols-outlined{
         font-size: 56px;
+        margin: 22px 52px;
+    }
+
+/* Footer */
+
+footer{
+    width: 960px;
+    height: 160px;
+    margin: auto;
+    background-color: #3C3C3C;   
+    display: flex; 
+    justify-content: space-between;
+    align-items: center;
+}
+
+    footer a{
+        color: #fff;
+    }
+    footer a img{
+        vertical-align: middle;
+        margin-left: 12px;
+        margin-right: 8px;
+    }
+    footer div a img{
+        width: 24px;
+        margin-right: 12px;
     }
